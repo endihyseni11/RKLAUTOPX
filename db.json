@@ -1,0 +1,33 @@
+{
+    "orderData": [
+      {
+        "belegNr": "82045",
+        "datum": "2025-03-04",
+        "seite": "1",
+        "kundenNr": "10000",
+        "kunde": "Example Kunde",
+        "uidGeschäftspartner": "DE279448078",
+        "bestätigungsKW": "13",
+        "d": "D",
+        "wunschKW": "13",
+        "referenz": "QXA5BF-501 JURIN",
+        "aufArt": "Art1",
+        "aesVerband": "AES123",
+        "ihrAnsprechpartnerName": "John Doe",
+        "ihrAnsprechpartnerEmail": "johndoe@example.com",
+        "lieferadresse": [
+          "BDSK Burgthann-Ezelsdorf Am Breitenstock 18",
+          "90559 Burgthann-Ezelsdorf",
+          "Germany"
+        ],
+        "artikelNr": "ART123",
+        "bezeichnung": "Sample Product",
+        "menge": "10",
+        "preis": "100",
+        "mwst": "19",
+        "gesbEuro": "1190",
+        "totalColli": "2"
+      }
+    ]
+  }
+  
